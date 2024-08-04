@@ -1,6 +1,6 @@
 ![Space Maintenance](https://github.com/user-attachments/assets/9524db25-b4c3-4146-b921-26651f9e30d9)
 
-> Maintain the space station as an astronaut.
+> Maintain the international space station (ISS) as an astronaut.
 
 #
 
