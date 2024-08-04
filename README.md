@@ -1,4 +1,4 @@
-![Space Maintenance](https://github.com/user-attachments/assets/3b4a85b8-9cd6-42de-b7d6-25f3e58d6bde)
+![ISS](https://github.com/user-attachments/assets/078e95e9-ca02-41da-a2f9-43d717427ca2)
 
 > Maintain the international space station (ISS) as an astronaut.
 
