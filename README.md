@@ -24,6 +24,8 @@ The GPT also highlights the unique environmental factors of space, such as micro
 [Space Agencies](https://github.com/sourceduty/Space_Agencies)
 <br>
 [Space Station Guide](https://github.com/sourceduty/Space_Station_Guide)
+<br>
+[Space Terminal](https://github.com/sourceduty/Space_Terminal)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
