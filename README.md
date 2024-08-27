@@ -11,6 +11,10 @@ In this simulation, the GPT emphasizes the intricacies of maintaining the ISS, s
 The GPT also highlights the unique environmental factors of space, such as microgravity, limited resources, and the isolation of space travel. It incorporates these elements into its explanations, helping users to understand how they impact everyday activities on the ISS. Whether describing how to fix a piece of equipment, explaining the procedures for a spacewalk, or simply detailing how astronauts handle basic tasks like eating or sleeping in space, this custom GPT offers an in-depth, interactive exploration of life aboard the ISS.
 
 #
+
+![Astronaut Discovery](https://github.com/user-attachments/assets/87f512b1-d86a-4f40-94b0-42fd86b119c5)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
